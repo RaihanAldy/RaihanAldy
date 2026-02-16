@@ -1,4 +1,3 @@
-## Hi there 👋 , I'm Raihanaldy Ash-Shafa
 
 <!--
 **RaihanAldy/RaihanAldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![RaihanAldy](img/github-header-banner.png)
 
-<h3> 🚀 Full-Stack Developer | Mobile Developer | AI Engineer </h3>
-<h4>🎓 Computer Engineering Graduate (GPA: 3.52/4.00) </h4>
-
-<p >
+<p align="center" >
   <img src="https://komarev.com/ghpvc/?username=raihanaldy&label=Profile%20views&color=0e75b6&style=flat" alt="raihanaldy" />
 </p>
 
-<div >
+<div align="center">
   <a href="https://portver2.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
@@ -36,8 +33,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
-
 <br/>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/drz">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=drz&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ## 👨‍💻 About Me
 
@@ -50,6 +52,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me **rhnaldy4@gmail.com**
 
 <br/>
+
+![banner](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 ## 🚀 Featured Projects
 
@@ -148,6 +152,8 @@ Here are some ideas to get you started:
 
 <br/>
 
+![banner2](img/purple-flow.gif)
+
 ## 📚 Education & Publications
 
 ### Education
@@ -159,6 +165,8 @@ Here are some ideas to get you started:
 - Available at: [JIPI Journal](https://jurnal.stkippgritulungagung.ac.id/index.php/jipi/article/view/6972)
 
 <br/>
+
+![banner3](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 ## 🛠️ Languages and Tools
 
@@ -214,6 +222,12 @@ Here are some ideas to get you started:
 </p>
 
 <br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaihanAldy/RaihanAldy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaihanAldy/RaihanAldy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RaihanAldy/RaihanAldy/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🌐 Connect with Me
 
